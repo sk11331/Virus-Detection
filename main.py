@@ -244,6 +244,8 @@ def HomeViewWhiteTheme():
 
     #--------------------Accounts Button -----------------#
 
+    #-------This is Shanmuk I want to check this new feature -------#
+
     accountsButtonImg = PhotoImage(file="res\\Blue Asset\\White theme\\Buttons\\Non-Hoved\\accounts.png").subsample(2,2)
     hovAccountsButtonImg = PhotoImage(file="res\\Blue Asset\\White theme\\Buttons\\Hoved\\hovAccounts.png").subsample(2,2)
 
