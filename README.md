@@ -1,2 +1,2 @@
 # Bit-Link
-Bit Link is a Python made Antivirus Created By Manish Kumar Parihar
+Bit Link is a Python Antivirus Created By Shanmuk and Srimanth
